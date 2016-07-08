@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lupa
+Name[es]=Lupa
+Name[es_ES]=Lupa
+Comment=Permite Magnificar un Área de la Pantalla
+Exec=/usr/bin/lupa
+Icon=lupa
+Categories=Education;
+Type=Application
+Terminal=false
